@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pavel/CLionProjects/BigInteger/BigInteger.cpp
+BigInteger.h
+/Users/pavel/CLionProjects/BigInteger/BigInteger.h
+
+/Users/pavel/CLionProjects/BigInteger/BigInteger.h
+iostream
+-
+string
+-
+vector
+-
+limits
+-
+iomanip
+-
+algorithm
+-
+cmath
+-
+
+/Users/pavel/CLionProjects/BigInteger/main.cpp
+iostream
+-
+BigInteger.cpp
+/Users/pavel/CLionProjects/BigInteger/BigInteger.cpp
+
