@@ -1,7 +1,14 @@
 # BigInteger
-Big Integer with templates from C++ course in ITMO University. 
+C++ course in ITMO University.
 
-Supports:
+Big Integer with templates written in C++. 
+
+## Features
 * simple binary and unary operations
 * radix system choice
 * block size choice
+
+## Test
+Tested manually on macOS and Linux.
+
+MIT License.
